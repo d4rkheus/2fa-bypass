@@ -1,6 +1,11 @@
 # 2fa-bypass
 2FA bypass tool for Discord.
 
+# Installation
+
+- Download Python.
+- Install modules: `pip install pyotp colorama`
+
 # How to use?
 
 <img width="514" height="529" alt="image" src="https://github.com/user-attachments/assets/781f2318-a7a1-4670-8f7c-ac02aec38f06" />
